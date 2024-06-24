@@ -15,6 +15,7 @@ significant improvement is the use of a new enclosure with integrated wall mount
     :align: center
     :alt: **MonELOG**
 
+SDADSA
     -    Runs open MonELOG software to monitor up to 14 circuits.
     -    Up to three voltage references for direct reference three-phase.
     -    Software pre-installed with automatic secure updates available.
