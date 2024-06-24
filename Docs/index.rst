@@ -6,7 +6,7 @@ MonELOG documentation
     :maxdepth: 2
     :caption: Contents:
 
-    Mulai <Mulai>
+    Mulai <Quickstart>
     Installation <installation>
     Connecting to WiFi <connectWiFi>
     Device Configuration <devConfig>
