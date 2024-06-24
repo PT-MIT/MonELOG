@@ -1,7 +1,7 @@
 Installation
 ============
 
-Software vs. Hardware
+Software dan Hardware
 ---------------------
 
 Strictly speaking, MonELOG began as a software project
@@ -17,7 +17,7 @@ This section of the documentation deals with the physical
 installation of the commercial MonELOG unit with factory 
 installed firmware.
 
-Components
+Komponen
 ----------
 
 MonELOG has 15 input channels.  
@@ -31,7 +31,7 @@ The minimum requirements for operation are:
     * Current Transformer (one or more)
 
 
-Voltage and Frequency
+Tegangan dan Frekuesi
 ---------------------
 
 MonELOG can work with all common line voltages at 50Hz/60Hz.
@@ -40,7 +40,7 @@ polyphase measurement.
 The most common environments are 120/240V 60Hz and 230V 50Hz.
 The USB power supply and AC transformer must be appropriate for the power system.
 
-Connections
+Koneksi
 -----------
 
 Setup is simple:
