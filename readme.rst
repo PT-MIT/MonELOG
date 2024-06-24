@@ -2,73 +2,30 @@
 MonELOG 
 =========================================
 
-MonELOG is an open-source, open hardware project to produce an accurate, 
-inexpensive and easy to use energy monitor.  
-It can use any of dozens of common current transformers and
-will report the data locally via integrated web server,
-or upload to any of several third-party energy websites/data bases.
-Configuration and administration is through an easy to 
-use browser based utility running on a 
-computer, tablet or smartphone.
+Description
+The Base unit is the hub of an MonELOG monitoring solution. This new version works the 
+same as the V.1.0 MonELOG, but also adds additional jacks to natively connect up to three 
+AC Voltage Reference transformers to facilitate direct reference three-phase. Another 
+significant improvement is the use of a new enclosure with integrated wall mount.
+
+
 
 .. figure:: Docs/pics/readmepic.jpg
     :scale: 100 %
     :align: center
     :alt: **MonELOG**
 
-    MonELOG North America Bundle with two CTs for Mains
+    -    Runs open MonELOG software to monitor up to 14 circuits.
+    -    Up to three voltage references for direct reference three-phase.
+    -    Software pre-installed with automatic secure updates available.
+    -    WiFi connected
+    -    Browser based configuration and data analysis
+    -    Saves data locally for up to 15 years
+    -    Uploads data to PVoutput, Emoncms, and influxDB
+    -    Measures Voltage, frequency, power (Watts), current (Amps), VA, energy (kWh) and power-factor.
+    -    Single, split or three-phase
+    -    120V or 230V or other with appropriate voltage reference transformer
+    -    Software configurable to use any of dozens of current transformers
+    -    Typical accuracy within 1%
 
-MonELOG is a full function standalone energy monitor 
-with the capability to store and serve up to 15 years (or more) 
-of comprehensive usage data and has an integrated web-server with
-visualization apps. 
-At the same time it can upload data to any and 
-all of several (and counting) web based database and reporting systems.
-
-Hardware is open and uses an ESP8266 nodeMCU,
-MCP3208 12 bit ADCs, an RTC, and an SDcard.
-The commercially manufactured unit is tested and certified to UL 
-standards in the US and Canada, 
-CE compliant, and FCC compliant and comes with a
-custom enclosure and wall mount.
-
-Metrics accumulated to 5 second resolution are Voltage(V), Power(Watts), 
-Energy(kWh), VA, and PF.  While not certified to a standard, 
-users typically report accuracy within 1% of their revenue meters.
-
-With over 1,000 units sold worldwide over the past year, 
-it's now starting to get the attention of energy professionals.
-
-The software project is not commercial, 
-however it was necessary to establish a legal entity (MonELOG, Inc.) 
-in order to manufacture, certify, and sell the hardware worldwide.  
-There is an investment in that 
-infrastructure that needs to be recovered through sales. You can
-
-
-The unit is manufactured in the USA.
-
-    *   `Documentation <https://MonELOG.readthedocs.io>`_
-    *   `Project Website <https://www.ptmit.co.id/>`_
-  
-
-.. image:: Docs/pics/inputsOutputsDisplay.png
-    :scale: 20 %
-    :align: left
-
-.. image:: Docs/pics/graphMultichannel.jpg
-    :scale: 20 %
-    :align: right
-
-.. image:: Docs/pics/totalPowerOutput.png
-    :scale: 20 %
-    :align: center
-
-.. image:: Docs/pics/PVoutputDisplay.png
-    :scale: 20 %
-    :align: center
-
-.. image:: Docs/pics/influxDBGrafana.png
-    :scale: 20 %
-    :align: center
 
