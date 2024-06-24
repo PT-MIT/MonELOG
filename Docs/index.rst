@@ -6,32 +6,32 @@ MonELOG documentation
     :maxdepth: 2
     :caption: Contents:
 
-    Mulai <Quickstart>
-    Installation <installation>
-    Connecting to WiFi <connectWiFi>
-    Device Configuration <devConfig>
-    VT Configuration <VTconfig>
-    CT Configuration <CTconfig>
-    Status Display <status>
+    Mulai <quickstart>
+    Memulai Instalasi <installation>
+    Cara Menghubungkan ke Wifi <connectWiFi>
+    Cara Konfigurasi Device <devConfig>
+    Cara Konfigurasi VT <VTconfig>
+    Cara Konfigurasi CT <CTconfig>
+    Tampilan Status Device<status>
     Outputs <outputs.rst>
     Integrators <integrators>
-    Uploaders <uploaders>
-    Configure PVoutput <PVoutput>
-    Configure Emoncms <Emoncms>
-    Configure influxDB <influxDB>
-    Home Assistant <homeAssistant>
-    Setting up Passwords <passConfig>
-    Three-phase power <threePhase>
-    CT Basics <CTbasics>
-    Split-phase power <split-phase.rst>
-    Data Visualization <dataVisualization>
+    Cara Menghubungkan ke Server <uploaders>
+    Cara Menghubungkan ke PVoutput <PVoutput>
+    Cara Menghubungkan ke Emoncms <Emoncms>
+    Cara Menghubungkan ke influxDB <influxDB>
+    Cara Menghubungkan ke Home Assistant <homeAssistant>
+    Cara Setting Passwords <passConfig>
+    Cara Seting 3 Phase Power <threePhase>
+    Ilmu Dasar tentang CT <CTbasics>
+    Instalasi Split-phase power <split-phase.rst>
+    Visualiasi Data <dataVisualization>
     Graph+ <graphPlus>
     Original Graph <originalGraph>
     File Manager and Editor <fileManager>
-    Query API <query.rst>
+    Cara Menghubungkan melalui API <query.rst>
     HTTPS Proxy Server <HTTPSproxy.rst>
     Message Log <messageLog>
     Troubleshooting <troubleshooting>
-    Accessing MonELOG.local <dotlocal>
+    Cara Akses MonELOG.local <dotlocal>
     
 
