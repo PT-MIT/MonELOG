@@ -1,8 +1,8 @@
 ================================
-Configuring Power Channels (CTs)
+Cara Konfigurasi CT
 ================================
 
-What is a power channel?
+Penjelasan Tentang Power Chanel
 ------------------------
 
 Power channels measure the current flow through a circuit and 
@@ -25,7 +25,7 @@ are manufactured with 3.5mm jacks.
 
     Echun ECS16-100 CT
 
-Connecting the CTs
+Cara Menghubungkan CT
 ------------------
 
 This tutorial does not cover physical installation of the CTs to your 
@@ -42,7 +42,7 @@ will tell you which ones appear to be backward, and provides a way to correct vi
 You can find more detailed information about physical installation of CTs 
 in the `CT Basics <CTbasics.html>`_ section.
 
-Configuring the Input Channels
+Cara Konfigurasi Input Channels
 ------------------------------
 
 At this point, you should have the MonELOG up and running with the voltage 
@@ -159,7 +159,7 @@ Click the |Status| button to see the MonELOG in action.
 The following additional information may provide guidance for more advanced installations.
 
 
-Generic CT
+Cara menambahkan CT yang belum ada di MonELOG
 ----------
 
 We just configured a *Current Type* CT that was of a model known to 
@@ -205,7 +205,7 @@ would be to use 2.0 for a split core CT (one that snaps onto a wire),
 and 0.2 for solid core CTs (Basically a solid doughnut that you pass 
 the conductor through).
 
-Enable derived three-phase
+Cara Mengaktifkan Pengukuran 3 Phase
 --------------------------
 
 This checkbox enables advanced features used to configure inputs in a 
