@@ -6,7 +6,7 @@ MonELOG documentation
     :maxdepth: 2
     :caption: Contents:
 
-    Quickstart <quickstart>
+    Mulai <quickstart>
     Installation <installation>
     Connecting to WiFi <connectWiFi>
     Device Configuration <devConfig>
