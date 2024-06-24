@@ -1,5 +1,5 @@
 =================================
-Voltage Transformer Configuration
+Cara Konfigurasi VT
 =================================
 
 A prime component of electrical power is voltage.
@@ -40,7 +40,7 @@ As you can see, the display changes to reveal the details of the input_0 configu
     :align: center
     :alt: Select VT Image
 
-VT Model Selection
+Pemilihan Model dan Merek VT
 ------------------
 If your make and model is listed, select it from the list.
 At this point, you can just click |save| and the standard 
@@ -78,7 +78,7 @@ These models are quite different and need to be properly configured.
     use model: TDC DA-10-09-E6
 
 
-Voltage Calibration
+Kalibrasi VT
 -------------------
 
 Again, if you are using one of the standard voltage transformers from
