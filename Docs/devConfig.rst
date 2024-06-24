@@ -1,4 +1,4 @@
-Device Configuration
+Cara Konfigurasi Device
 ====================
 
 Successful startup will be indicated by a dull green glow on the LED.
@@ -22,7 +22,7 @@ Hover over |Setup| and click |device| in the dropdown menu.
     :align: center
     :alt: Config Device image
 
-Device name
+Nama Device
 -----------
 
 You can change the ``Device name`` to another 8 character name if you wish.
@@ -45,7 +45,7 @@ If your time zone is subject to "Daylight Saving Time",
 check the ``Allow Daylight Time`` box.
 MonELOG has DST rules for most of North America, Europe, Australia and New Zealand.
 
-Auto-update Class
+Cara Setting Pembaharuan Firmware
 ----------------- 
 
 Auto-update Class tells MonELOG if you want to receive 
