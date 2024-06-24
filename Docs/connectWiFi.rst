@@ -2,7 +2,7 @@
 Connecting to WiFi
 ==================
 
-Purpose
+Tujuan
 -------
 
 When MonELOG powers up, it attempts to connect to the 
@@ -20,7 +20,7 @@ and is in normal operating mode.
 At this point you can skip ahead to the next 
 section `Device Configuration <devConfig.html>`__
 
-New connection
+Koneksi Baru
 --------------
 
 If the MonELOG has never been connected to a WiFi network (new),
@@ -65,7 +65,7 @@ the `troubleshooting <troubleshooting.html>`__ section.
 When the LED glows dull green, proceed to the next step
 `Device Configuration  <devConfig.html>`__
 
-Resetting WiFi to Defaults
+Cara Reset Wifi 
 --------------------------
 
 If you wish to change the WiFi SSID that the MonELOG is connected to
